@@ -8,9 +8,11 @@
 }
 
 body {
+    padding-top: 80px;
     font-family: Lato, sans-serif;
     font-weight: 300;
-    background-color: #FDEBE4;
+    background: #FDEBE4;
+;
 }
 
 
@@ -23,10 +25,6 @@ body {
     font-weight: 300;
     color: #3066be;
     padding-bottom: 10px;
-}
-
-.inline-block {
-    display: inline-block;
 }
 
 
@@ -57,3 +55,8 @@ body {
     letter-spacing: 2px;
     color: #3066be;
 }
+
+.row div {
+    padding: 0;
+}
+
