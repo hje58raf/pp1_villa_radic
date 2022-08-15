@@ -164,3 +164,45 @@ form {
     width:100%;
     margin: 10px auto;
 }
+
+/*--Gallery Taken from https://www.w3schools.com/css/css_image_gallery.asp and modified--*/
+
+
+.title {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color:  #3066be;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 33.33333%;
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
