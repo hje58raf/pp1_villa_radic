@@ -8,7 +8,7 @@
 }
 
 body {
-    padding-top: 80px;
+    padding-top: 55px;
     font-family: Lato, sans-serif;
     font-weight: 300;
     background: #FDEBE4;
@@ -21,7 +21,7 @@ body {
 }
 
 .general-sub {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #3066be;
     padding-bottom: 10px;
