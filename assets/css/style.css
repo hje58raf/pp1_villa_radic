@@ -76,3 +76,52 @@ body {
     padding: 20px; /* Some padding */
     text-align: center;
 }
+
+
+/*--Footer Copied from resume-miniproject-bootstrap4 - Code Institute - modified--*/
+
+
+footer {
+    background-color: #d1e3fa;
+    color: #3066be;
+    min-height: 30px;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 0;
+    bottom:0;
+}
+
+
+.social-links {
+    padding-bottom: 5px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #3066be;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #8f8f8f;
+
+}
+
+#footer-details {
+    padding: 0;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 10px;
+}
