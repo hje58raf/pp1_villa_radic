@@ -140,7 +140,7 @@ footer {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     color:  #3066be;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 
 .center-form {
@@ -211,3 +211,4 @@ div.gallery {
     display: table;
     clear: both;
   }
+
