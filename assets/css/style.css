@@ -27,6 +27,9 @@ body {
     padding-bottom: 10px;
 }
 
+.inline-block {
+    display: inline-block;
+}
 
 /*--Colours--*/
 
@@ -55,6 +58,8 @@ body {
     letter-spacing: 2px;
     color: #3066be;
 }
+
+/*--Hero image Taken from https://www.w3schools.com/css/css_image_gallery.asp and modified--*/
 
 .row div {
     padding: 0;
@@ -196,7 +201,7 @@ div.gallery {
   }
   
   .responsive {
-    padding: 0 6px;
+    padding: 0;
     float: left;
     width: 33.33333%;
   }
