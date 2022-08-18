@@ -56,7 +56,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ## Existing Features
 
-### Header navigation bar
+### Navigation bar
 
 * Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.
 * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -65,6 +65,27 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/navigation_bar.png)
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/navigation_bar1.png)
+
+### The Main Image
+
+* The main image includes two photos of the cottage with transparent image text.
+
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/thr_main_image.png)
+
+### About Us Section
+
+* The About us section will allow the guest to see all the advantages of staying in this cottage. It will show him all the beauty, comfort and quality of the accommodation.
+
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/about_us.png)
+
+### The Footer
+
+* The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user.
+
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/footer.png)
+
+
+
 
 
 
