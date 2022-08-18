@@ -52,6 +52,17 @@ The Lato and Roboto font is the main fonts used throughout the whole portfolio w
 
 All images are All images are taken from https://www.novasol.com/. All pictures are personal pictures of the owner of the cottage, Željko Radić, who is my relative and who gave me permission to use them in this project. I tried to match the colors on the website with the colors used in the Maoxchan image.
 
+# Features
+
+## Existing Features
+
+### Header navigation bar
+
+* Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+My cottage logo is shown on the header on the left side. The navigation bar items are positioned to the left side of the screen and aligned in the centre of the bar. They give access to the Gallery, and Contact pages.
+With a mobile device, the navbar is displayed in a hamburger menu.
+
 
 
 
