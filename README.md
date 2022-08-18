@@ -10,10 +10,9 @@
 # Table of Contents
 1. [UX](#UX)
 2. [Features](#Features)
-3. [Technologies](#Technologies)
-4. [Testing](#Testing)
-5. [Deployment](#Deployment)
-6. [Credits](#Credits)
+3. [Testing](#Testing)
+4. [Deployment](#Deployment)
+5. [Credits](#Credits)
 
 
 # UX
