@@ -104,7 +104,10 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ## Validators Testing
 
+### HTML
 
+* No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhje58raf.github.io%2Fpp1_villa_radic%2F)
+* 
 
 
 
