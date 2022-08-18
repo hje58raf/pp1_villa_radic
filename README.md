@@ -5,7 +5,7 @@
 
 [Villa Radic Website](https://hje58raf.github.io/pp1_villa_radic)  is part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module. 
 
-![Am I responsive screenshot](/assets/images/responsive.png)
+![Am I responsive screenshot](/assets/images/readme/responsive.png)
 
 # Table of Contents
 1. [UX](#UX)
@@ -107,7 +107,56 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 ### HTML
 
 * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhje58raf.github.io%2Fpp1_villa_radic%2F)
-* 
+
+### CSS
+
+* No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+## Browser compatibility
+
+* I tested the appearance  and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
+
+## Test the Navigation Bar between Desktop and Mobile
+
+* Test the navigation bar collapses to give the 'hamburger' icon when the device is smaller than medium.
+
+## Test the Footer
+
+* I placed the social media icons in the center of the footer. I tested all the links and they all worked well. The social media links each open in a separate tab.
+
+## Navigation Testing
+
+* The menu options all open the correct page except for of the 'CV Download' which opens my CV in a separate tab.
+
+
+## Contact Page
+
+* When testing a page, the Name and Description fields allow input of any text while Email requires the input of Email form. I repeated the test several times and each time it was successful.
+
+## Deployment
+
+
+### The site was deployed to GitHub pages. The steps to deploy are as follows: 
+* In the GitHub repository, navigate to the Settings tab 
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://hje58raf.github.io/pp1_villa_radic/
+
+# Credits
+
+## Content
+
+* Most of the code was developed by the use of Bootstrap's library and w3schools throughout the project to ensure the responsiveness of the website such as the Navbar, The Main Image and Gallery. I also found some inspiration in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
+
+## Media
+
+All pictures are personal pictures of the owner of the cottage, Željko Radić, who is my cousin and who gave me permission to use them in this project.
+
+I would like to thank:
+* My mentor, Rahul Lakhanpal, for his guidance, patience and encouragement throughout this project.
+* The slack community for its extensive Q&A, I found most of the answers to my problems there.
+* Thanks to everyone at the Code Institute for helping to make this such an enjoyable and rewarding experience.
 
 
 
