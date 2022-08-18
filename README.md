@@ -70,7 +70,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 * The main image includes two photos of the cottage with transparent image text.
 
-![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/thr_main_image.png)
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/the_main_image.png)
 
 ### About Us Section
 
