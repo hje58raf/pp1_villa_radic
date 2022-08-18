@@ -84,6 +84,15 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/footer.png)
 
+### Gallery Page
+
+* The gallery will provide guests with accompanying images to see what the accommodation looks like.
+
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/gallery.png)
+
+
+
+
 
 
 
