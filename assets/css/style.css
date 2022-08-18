@@ -107,6 +107,7 @@ body {
 
 
 footer {
+    position: fixed;
     background-color: #d1e3fa;
     color: #3066be;
     min-height: 30px;

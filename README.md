@@ -1,6 +1,3 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 # Villa Radic Website
 
 [Villa Radic Website](https://hje58raf.github.io/pp1_villa_radic)  is part of Code Institute's Portfolio Project 1 - HTML/CSS Essentials. It is intended for tourists who want to discover new destinations hidden in the interior of Croatia. It was started at the persuasion of my cousin Zeljko Radic, the owner of the cottage, who wants to create a quality website for renting.
@@ -129,7 +126,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ## Navigation Testing
 
-* The menu options all open the correct page except for of the 'CV Download' which opens my CV in a separate tab.
+* The menu options all open the correct page.
 
 
 ## Contact Page
