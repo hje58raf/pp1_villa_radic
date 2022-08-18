@@ -112,6 +112,10 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/css_valiadation.png)
 
+### Lighthouse
+
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/lighthouse.jpg)
+
 ## Browser compatibility
 
 * I tested the appearance  and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
