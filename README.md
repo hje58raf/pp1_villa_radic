@@ -94,6 +94,19 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 * My contact page is very simple. There are input fields for a name, email address and a description of what the contact is concerning.
 
+![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/contact.png)
+
+## Features Left To Implement In The Future
+
+* As this project is designed to build a static front-end that demonstrates the skills I have developed using CSS3, HTML5 and Bootstrap technologies, I would add the possibility of reservation, reviews and Google map in the next projects.
+
+# Testing
+
+## Validators Testing
+
+
+
+
 
 
 
