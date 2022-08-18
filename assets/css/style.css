@@ -11,7 +11,7 @@ body {
     padding-top: 55px;
     font-family: Lato, sans-serif;
     font-weight: 300;
-    background-color: #FDEBE4;
+    background: #FDEBE4;
 }
 
 
@@ -107,7 +107,6 @@ body {
 
 
 footer {
-    position: fixed;
     background-color: #d1e3fa;
     color: #3066be;
     min-height: 30px;
