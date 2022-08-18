@@ -3,7 +3,7 @@
 
 # Villa Radic Website
 
-[Villa Radic Website](https://github.com/hje58raf/pp1_villa_radic)  is part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module. 
+[Villa Radic Website](https://hje58raf.github.io/pp1_villa_radic)  is part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module. 
 
 ![Am I responsive screenshot](/assets/images/responsive.png)
 
@@ -89,6 +89,10 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 * The gallery will provide guests with accompanying images to see what the accommodation looks like.
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/gallery.png)
+
+### Contact page
+
+* My contact page is very simple. There are input fields for a name, email address and a description of what the contact is concerning.
 
 
 
