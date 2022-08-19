@@ -1,6 +1,6 @@
 # Villa Radic Website
 
-[Villa Radic Website](https://hje58raf.github.io/pp1_villa_radic)  is part of Code Institute's Portfolio Project 1 - HTML/CSS Essentials. It is intended for tourists who want to discover new destinations hidden in the interior of Croatia. It was started at the persuasion of my cousin Zeljko Radic, the owner of the cottage, who wants to create a quality website for renting.
+[Villa Radic Website](https://hje58raf.github.io/pp1_villa_radic)  is part of the Code Institute's Portfolio Project 1 - HTML/CSS Essentials. It is intended for tourists who want to discover new destinations hidden in the interior of Croatia. It was started at the persuasion of my cousin Zeljko Radic, the owner of the cottage, who wants to create a quality website for renting.
 
 ![Am I responsive screenshot](/assets/images/readme/responsive.png)
 
@@ -16,20 +16,20 @@
 
 ## Project goals
 
-* Making a static front-end site to present useful information to users/ guest, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
+* Making a static front-end site to present useful information to users/ guests, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
 * Creating a website that is easy to navigate and easy to understand.
 * The customer experience has to be great on every device and internet browser.
-* I am creating the Holiday cottage website in order to show guests all the beauty, comfort and quality of the accommodation.
+* I am creating the Holiday cottage website to show guests all the beauty, comfort, and quality of the accommodation.
 * The Holiday cottage website is intended for guests who want to spend their vacation away from the city bustle, in untouched nature.
 
 ## User stories
 
-### First time visitors
+### First-time visitors
 
-* As a first-time visitor, I want the website to scale on every device so that I can look at the website on desktop, mobile and tablet.
-* As a first-time visitor, I want to know which projects the person has done so that I know the level of experience of the person.
+* As a first-time visitor, I want the website to scale on every device so that I can look at the website on desktop, mobile, and tablet.
+* As a first-time visitor, I want to know which projects the person has done so that I know the level experience of the person.
 * As a first-time visitor, to the site I want the information to be clear and concise so that I can easily understand what the site is about. 
-* As a first-time visitor, I want to being able to find all the information that is available and the facility to check out their social media for any other useful information.
+* As a first-time visitor, I want to be able to find all the information that is available and the facility to check out their social media for any other useful information.
 
 ### As a guest
 
@@ -42,11 +42,11 @@ I've chosen 2 primary colours for the backgrounds (#fdebe4), headings and footer
 
 ## Typography
 
-The Lato and Roboto font is the main fonts used throughout the whole portfolio website. Sans Serif is the fallback in case the main font isn’t being imported to the site correctly. 
+The Lato and Roboto fonts are the main fonts used throughout the whole portfolio website. Sans Serif is the fallback in case the main font isn’t being imported to the site correctly. 
 
 ## Imagery
 
-All images are All images are taken from https://www.novasol.com/. All pictures are personal pictures of the owner of the cottage, Željko Radić, who is my relative and who gave me permission to use them in this project. I tried to match the colors on the website with the colors used in the Maoxchan image.
+All images are taken from [Novasol Website](https://www.novasol.com/). All the pictures are personal pictures of the owner of the cottage, Zeljko Radic, who is my relative and who permitted me to use them in this project. I tried to match the colors on the website with the colors used in the Maoxchan image.
 
 # Features
 
@@ -54,9 +54,9 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ### Navigation bar
 
-* Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.
-* This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-* My cottage logo is shown on the header on the left side. The navigation bar items are positioned to the left side of the screen and aligned in the centre of the bar. They give access to the Gallery, and Contact pages.
+* Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, and Contact page and is identical on each page to allow for easy navigation.
+* This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
+* My cottage logo is shown on the header on the left side. The navigation bar items are positioned on the left side of the screen and aligned in the center of the bar. They give access to the Gallery, and Contact pages.
 * With a mobile device, the navbar is displayed in a hamburger menu.
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/navigation_bar.png)
@@ -70,7 +70,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ### About Us Section
 
-* The About us section will allow the guest to see all the advantages of staying in this cottage. It will show him all the beauty, comfort and quality of the accommodation.
+* The About us section will allow the guest to see all the advantages of staying in this cottage. It will show him all the beauty, comfort, and quality of the accommodation.
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/about_us.png)
 
@@ -88,13 +88,13 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ### Contact page
 
-* My contact page is very simple. There are input fields for a name, email address and a description of what the contact is concerning.
+* My contact page is very simple. There are input fields for a name, email address, and a description of what the contact is concerning.
 
 ![images](https://github.com/hje58raf/pp1_villa_radic/blob/main/assets/images/readme/contact.png)
 
 ## Features Left To Implement In The Future
 
-* As this project is designed to build a static front-end that demonstrates the skills I have developed using CSS3, HTML5 and Bootstrap technologies, I would add the possibility of reservation, reviews and Google map in the next projects.
+* As this project is designed to build a static front-end that demonstrates the skills I have developed using CSS3, HTML5, and Bootstrap technologies, I would add the possibility of reservation, reviews, and Google map in the next projects.
 
 # Testing
 
@@ -118,7 +118,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ## Browser compatibility
 
-* I tested the appearance  and responsiveness of 4 browsers (Chrome, Firefox, Opera and Edge) and it showed good results in all browsers.
+* I tested the appearance and responsiveness of 4 browsers (Chrome, Firefox, Opera, and Edge) and it showed good results in all browsers.
 
 ## Test the Navigation Bar between Desktop and Mobile
 
@@ -130,7 +130,7 @@ All images are All images are taken from https://www.novasol.com/. All pictures 
 
 ## Navigation Testing
 
-* The menu options all open the correct page.
+* The menu options all open on the correct page.
 
 
 ## Contact Page
@@ -151,14 +151,14 @@ The live link can be found here - https://hje58raf.github.io/pp1_villa_radic/
 
 ## Content
 
-* Most of the code was developed by the use of Bootstrap's library and w3schools throughout the project to ensure the responsiveness of the website such as the Navbar, The Main Image and Gallery. I also found some inspiration in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
+* Most of the code was developed by the use of Bootstrap's library and w3schools throughout the project to ensure the responsiveness of the website such as the Navbar, The Main Image, and Gallery. I also found some inspiration in two Code Institute projects: Love Running and Mini project with Bootstrap 4.
 
 ## Media
 
-All pictures are personal pictures of the owner of the cottage, Željko Radić, who is my cousin and who gave me permission to use them in this project.
+All the pictures are personal pictures of the owner of the cottage, Zeljko Radic, who is my cousin and who permitted me to use them in this project.
 
 I would like to thank:
-* My mentor, Rahul Lakhanpal, for his guidance, patience and encouragement throughout this project.
+* My mentor, Rahul Lakhanpal, for his guidance, patience, and encouragement throughout this project.
 * The slack community for its extensive Q&A, I found most of the answers to my problems there.
 * Thanks to everyone at the Code Institute for helping to make this such an enjoyable and rewarding experience.
 
